@@ -36,7 +36,7 @@ class InstaScript:
     def new(self):
         
         browser = self.browser
-        browser.get("https://www.instagram.com/klsiy") 
+        browser.get("https://www.instagram.com/klsiy")  # USERNAME HERE CHANGE
        
 
 #
@@ -87,7 +87,7 @@ class InstaScript:
 
 
 if __name__ == '__main__':
-        Instagram_Spam_Bot = InstaScript('bugfinder_', 'Oggysir@123', 'klsiy', 95)
+        Instagram_Spam_Bot = InstaScript('HERE ID', 'HERE PASS', 'VICTIM ID', COUNT OF MESG)
         Instagram_Spam_Bot.login()
         Instagram_Spam_Bot.new()
         Instagram_Spam_Bot.messagenew()
