@@ -19,3 +19,4 @@ then Open *haha.py* With any code editor then change ID , PASS , VICTIM ID AND C
 <a href="instagram.com/klsiy" target="blank"><img align="centre" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="ZBRT" height="30" widht="40" /></a>
 
 <h3> DISCORD </h3>
+OGGY#6236
